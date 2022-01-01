@@ -22,6 +22,6 @@ I optimize for updates as soon as possible, for a better experience.
 # Password shell-backdoor (1)
 - [x] username : meow404
 - [x] password : penucuriCode 
-<center><img src="https://github.com/penucuriCode/shell-backdoor/blob/main/ss1.PNG">
-<img src="https://github.com/penucuriCode/shell-backdoor/blob/main/Spoiler02.PNG">
-<img src="https://github.com/penucuriCode/shell-backdoor/blob/main/howtouse.gif">
+<center><img src="https://github.com/pencuricode/shell-backdoor/blob/main/img/ss1.png">
+<img src="https://github.com/pencuricode/shell-backdoor/blob/main/img/Spoiler02.png">
+<img src="https://github.com/pencuricode/shell-backdoor/blob/main/img/howtouse.gif">
