@@ -6,7 +6,10 @@ I created this script to help make it easier for you to directly attack index.ht
 for the advantages of the features of this script I have completed everything. you can check the features below 😄
 I optimize for updates as soon as possible, for a better experience.
 ```
-<center><img src="https://discord.c99.nl/widget/theme-2/447411230098063362.png"><br>
+<p align="center"><br>
+  <a href="https://github.com/penucuriCode">
+    <img src="https://lanyard-profile-readme.vercel.app/api/447411230098063362"/>
+     </a>
   
  # Website has been hacked by PenucuriCode
 
